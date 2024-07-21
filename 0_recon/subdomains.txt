@@ -1,0 +1,6 @@
+www
+mail
+email
+smtp
+vpn
+dns
